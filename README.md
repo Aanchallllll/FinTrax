@@ -29,8 +29,6 @@ FinTrax/
 │
 ├── backend/           # API and server logic (Node.js, Express)
 ├── frontend/          # ReactJS client application
-├── .env       # Example environment variables
-├── package.json       # Project dependencies
 └── README.md          # Project documentation
 ```
 
